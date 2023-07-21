@@ -1,7 +1,7 @@
-# robot-car-lafvin
+# BSCS 3B Group 1
 
 <h2>Description</h2>
-<p>This project utilizes a kit provided by LAFVIN. This kit is called the 4WD Smart Robot Car V2, and is one of the few kits that they offer. This kit includes the following</p>
+<p>This project utilizes a kit provided by LAFVIN. This kit is called the 4WD Smart Robot Car V2, and is one of the few kits that they offer. This kit includes the following:</p>
 <ul>
   <li>1 Custom Arduino UNO R3</li>
   <li>1 Motor Drive Expansion Board</li>
@@ -39,3 +39,13 @@
   <li>IR Remote Controlled - with the provided remote, the robot car can perform basic navigation such as moving forward, backward, left, and right. It can also rotate to the left, rotate to the right, and stopping all movements with a push of a button</li>
   <li>Bluetooth Remote Controlled - unlike the IR Remote, the Bluetooth Remote has access to all the functionalities of the robot car. Therefore this is the main method of controlling the robot car</li>
 </ol>
+
+<h2>Members</h2>
+<ul>
+  <li>Louis Agor</li>
+  <li>Jericho Austria</li>
+  <li>Jeero Cemiller</li>
+  <li>Dale Gabriel del Valle</li>
+  <li>Gerald Kent Tolentino</li>
+  <li>Vhince Villanueva</li>
+</ul>
