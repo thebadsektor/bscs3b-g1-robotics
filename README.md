@@ -40,6 +40,10 @@
   <li>Bluetooth Remote Controlled - unlike the IR Remote, the Bluetooth Remote has access to all the functionalities of the robot car. Therefore this is the main method of controlling the robot car</li>
 </ol>
 
+<h2>Video Documentary</h2>
+<p>A short video of the students building and demonstrating the 4WD robot car:</p>
+<ul><li>https://drive.google.com/file/d/1-bJAOdd1i6AE5J1dh4QsWseLDCD0SrlC/view?usp=drive_link</li></ul>
+
 <h2>Members</h2>
 <ul>
   <li>Louis Agor</li>
